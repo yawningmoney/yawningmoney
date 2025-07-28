@@ -3,14 +3,14 @@
   <img src="https://img.shields.io/badge/-Languages-30363d?style=for-the-badge" alt="Languages"/>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,java,python" />
+    <img src="https://skillicons.dev/icons?i=ts,java,python,go" />
   </a>
   <br><br>
 
   <img src="https://img.shields.io/badge/-Frontend-30363d?style=for-the-badge" alt="Frontend"/>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,html,css" />
   </a>
   <br><br>
 
@@ -58,6 +58,6 @@
 
 <p align="center">
   <a href="https://x.com/loweffortwin" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter"/>
+    <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
