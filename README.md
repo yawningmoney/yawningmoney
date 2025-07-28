@@ -53,6 +53,7 @@
   <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=rust" />
+    <br>
   </a>
 <br>
 
